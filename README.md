@@ -29,3 +29,17 @@ yarn add chromedriver
 
 Now that we have installed WebDriver servers, there is the process of creating **[nightwatch.json](https://github.com/miktadozturk/nightwatchjs_test/blob/main/nightwatch.json)** file.
 
+
+## 1. Google Search Test
+
+First test with the Google Search. The test below opens the search engine Google.com and searches for "nightwatch", then verifies if the term first result is the Nightwatch.js website and click the link. Then takes to screenshot and finish the test.
+
+You can see from here **[googleFirstTest.js](https://github.com/miktadozturk/nightwatchjs_test/blob/main/test/googleFirstTest.js)**
+
+
+## 2. Amazon.com Login Page Test
+
+Now we will focus on the Login page test with Nightwatchjs. I chose the Amazon.com page. After understanding the logic, you can use other pages if you wish. 
+
+You can see from here **[loginTest.js](https://github.com/miktadozturk/nightwatchjs_test/blob/main/test/loginTest.js)**
+
