@@ -43,3 +43,11 @@ Now we will focus on the Login page test with Nightwatchjs. I chose the Amazon.c
 
 You can see from here **[loginTest.js](https://github.com/miktadozturk/nightwatchjs_test/blob/main/test/loginTest.js)**
 
+
+# More
+
+You can watch my videos and subscribe my channel : **[Youtube.com/MiktadOzturk](https://www.youtube.com/MiktadOzturk)**
+
+or
+
+You can read my articles from Medium and follow me : **[medium.com/@miktadozturk](https://medium.com/@miktadozturk)**
