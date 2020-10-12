@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3b4172b-ffd5-4d6c-ab40-df3bd7a25771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/screenshots/google.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1aOSQeOaurIz2eGiw6L1l3L8eN6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3b4172b-ffd5-4d6c-ab40-df3bd7a25771" name="Default Changelist" comment="" />
+      <created>1586605132612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586605132612</updated>
+      <workItem from="1586605136236" duration="2847000" />
+      <workItem from="1586613208727" duration="5000" />
+      <workItem from="1586614383361" duration="674000" />
+      <workItem from="1588895125836" duration="984000" />
+      <workItem from="1588896319666" duration="108000" />
+      <workItem from="1589143490008" duration="4383000" />
+      <workItem from="1589160276651" duration="138000" />
+      <workItem from="1590097280836" duration="10000" />
+      <workItem from="1590097519561" duration="681000" />
+      <workItem from="1590099854828" duration="30000" />
+      <workItem from="1590237275511" duration="804000" />
+      <workItem from="1590247666117" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1589160353819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589160353819" />
+    <state x="122" y="50" key="DiffContextDialog" timestamp="1589160352300">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1589160352300" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586614977532">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586614977532" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586611383540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586611383540" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586611383540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586611383540" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586611383540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586611383540" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586611383540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586611383540" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589160294742">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1589160294742" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+[0411/135335.255:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0411/135335.258:ERROR:exception_snapshot_win.cc(98)] thread ID 14844 not found in process
+[0411/140004.792:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0411/140004.793:ERROR:exception_snapshot_win.cc(98)] thread ID 15728 not found in process
+[0411/140052.176:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0411/140052.178:ERROR:exception_snapshot_win.cc(98)] thread ID 8100 not found in process
+[0508/015810.938:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0508/015810.945:ERROR:exception_snapshot_win.cc(98)] thread ID 14188 not found in process
+[0508/020337.698:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0508/020337.698:ERROR:exception_snapshot_win.cc(98)] thread ID 11576 not found in process
+[0510/235302.973:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0510/235302.976:ERROR:exception_snapshot_win.cc(98)] thread ID 6140 not found in process
+[0510/235302.977:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0510/235302.977:ERROR:exception_snapshot_win.cc(98)] thread ID 8536 not found in process
+[0510/235302.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0510/235302.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0510/235302.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0510/235302.988:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0510/235302.988:ERROR:exception_snapshot_win.cc(98)] thread ID 15132 not found in process
