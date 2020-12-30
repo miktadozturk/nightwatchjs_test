@@ -33,6 +33,10 @@ After installation Nightwatch, you need to identify the browsers you want to tes
 ```
 yarn add chromedriver
 ```
+or
+```
+npm install chromedriver
+```
 
 
 Now that we have installed WebDriver servers, there is the process of creating **[nightwatch.json](https://github.com/miktadozturk/nightwatchjs_test/blob/main/nightwatch.json)** file.
