@@ -10,6 +10,10 @@ Run the following command to install the latest version using the terminal:
 ```
 yarn install nightwatch
 ```
+or
+```
+npm install nightwatch --save-dev
+```
 
 ## Selenium Installation
 Run the following command to install the latest version using the terminal:
@@ -17,6 +21,10 @@ Run the following command to install the latest version using the terminal:
 
 ```
 yarn add selenium-server
+```
+
+```
+npm install selenium-server
 ```
 
 ## WebDrive Service
