@@ -22,7 +22,7 @@ Run the following command to install the latest version using the terminal:
 ```
 yarn add selenium-server
 ```
-
+or
 ```
 npm install selenium-server
 ```
